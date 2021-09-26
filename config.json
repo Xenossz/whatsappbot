@@ -1,13 +1,13 @@
 {	
 	"prefix": "multi", 
 	"defaultSessionName": "XenosszBot", 
-	"zeksKey": "apikey",
+	"zeksKey": "BMsg5OhFscVaP3H6ATGHhLCESx2",
 	"autoRead": true,
 	"self": false, 
 	"maxLimit": 30,
-	"ownerList": ["6283807515326@s.whatsapp.net", "6283899571658@s.whatsapp.net"],
+	"ownerList": ["6283807515326@s.whatsapp.net", "6281220155416@s.whatsapp.net"],
 	"apiUrl": "https://api.zeks.me",
     "imgUrl": "https://api.zeks.me/logo.jpg",
-	"pack": "GHibss",
+	"pack": "Ghibss",
 	"author": "XenosszBot"
 }
