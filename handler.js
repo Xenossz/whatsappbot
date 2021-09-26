@@ -934,7 +934,7 @@ module.exports = handle = (client, Client) => {
                                      {
                                        buttonId: `${data.prefix}owner`,
                                        buttonText: {
-                                          displayText: "🪀 𝐎𝐖𝐍𝐄𝐑"
+                                          displayText: "👦 𝐎𝐖𝐍𝐄𝐑"
                                         },
                                          "type": "RESPONSE"
                                      },
