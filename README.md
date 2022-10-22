@@ -48,10 +48,5 @@ after start it you need to scan the qr
 #### Session name and options is optional
 ### Contact me
 
-- [TELEGRAM](https://t.me/justpiple)
-- [WHATSAPP](http://wa.me/62813309603730)
-- [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/EV2o7Y4C2XNDT5AAQPZjqt)
-
-
 ## 🙏 Special Thanks to
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/@adiwajshing/Baileys%20-%23121011.svg?style=flat-square&logo=npm&color=white"/></a>
